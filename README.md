@@ -1,1 +1,1 @@
-# RetinalDisease
+# Retinal Disease Classification - Computer Vision
